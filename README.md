@@ -15,7 +15,8 @@ present.
 5. Select the repository directory containing `manifest.json`.
 
 The extension is enabled by default. Click the Articleall toolbar icon to pause
-or resume automatic redirects. The setting is stored with Chrome Sync.
+or resume automatic redirects. The `OFF` badge and tooltip show when redirects
+are disabled, and the setting is stored with Chrome Sync.
 
 ## Supported sites
 
