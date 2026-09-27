@@ -18,6 +18,9 @@ The extension is enabled by default. Click the Articleall toolbar icon to pause
 or resume automatic redirects. The `OFF` badge and tooltip show when redirects
 are disabled, and the setting is stored with Chrome Sync.
 
+Incognito mode uses a split extension context, so its settings and background
+state remain separate from the regular browsing context.
+
 ## Supported sites
 
 | Site | Full-page rule |
