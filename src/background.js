@@ -13,8 +13,8 @@ async function updateAction(enabled) {
   await chrome.action.setBadgeBackgroundColor({ color: "#64748b" });
   await chrome.action.setIcon({
     path: enabled
-      ? { 16: "icons/icon16.svg", 32: "icons/icon32.svg" }
-      : { 16: "icons/disabled16.svg", 32: "icons/disabled32.svg" },
+      ? { 16: "icons/icon16.png", 32: "icons/icon32.png" }
+      : { 16: "icons/disabled16.png", 32: "icons/disabled32.png" },
   });
   await chrome.action.setTitle({
     title: enabled ? "Articleall (enabled)" : "Articleall (disabled)",
