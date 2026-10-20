@@ -48,6 +48,7 @@ state remain separate from the regular browsing context.
 | `insidermonkey.com` | `?singlepage=1` |
 | `inews.id` | path suffix `/all` |
 | `wahananews.co` | path suffix `/0` |
+| `idxchannel.com` | path suffix `/all` |
 
 ## Development
 

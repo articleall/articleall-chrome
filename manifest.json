@@ -39,7 +39,8 @@
     "*://*.republika.co.id/*",
     "*://*.bisnis.com/*",
     "*://*.inews.id/*",
-    "*://*.wahananews.co/*"
+    "*://*.wahananews.co/*",
+    "*://*.idxchannel.com/*"
   ],
   "background": {
     "service_worker": "src/background.js",
